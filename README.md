@@ -2,6 +2,8 @@
 
 Conference Expense Planner is a React-based web application that helps users efficiently plan the cost of organizing a conference. It provides an interactive interface to select venue rooms, add-ons (AV equipment), and meal options for attendees, while displaying a live summary of the total cost.
 
+---
+
 ## 🚀 Features
 
 - 🎯 **Venue Selection**: Choose from various available halls, including limited-capacity options (e.g., Auditorium with a max of 3).
@@ -10,12 +12,15 @@ Conference Expense Planner is a React-based web application that helps users eff
 - 💰 **Live Cost Summary**: Displays dynamic total costs per section and overall.
 - ✅ **Responsive UI**: Clean and interactive user experience using React hooks and Redux.
 
+---
+
 ## 🛠️ Built With
 
 - **React** – Frontend UI
 - **Redux Toolkit** – State management for venue, AV, and meals
 - **CSS** – Styling and animations
 
+---
 
 ## 🧠 How It Works
 
@@ -24,6 +29,8 @@ Conference Expense Planner is a React-based web application that helps users eff
 3. Users add or remove items using buttons.
 4. A **Show Details** button allows reviewing selected items and the overall cost.
 5. All logic is managed using Redux slices to ensure consistent state updates.
+
+---
 
 ## 🧪 Setup & Installation
 
